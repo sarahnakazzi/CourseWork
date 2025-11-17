@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px 5px 10px;
+    background-color: rgb(235, 212, 9);
+    text-align: justify;
+    margin: 30px;
+    border-radius: 10px 5px 10px;
+    background-image: url('pixabay.jpg');
+    background-position: fit;
+
+   
+}
+
+.logo {
+    display: flex;
+    align-items: left;
+    justify-content:  left;
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 2rem;
+    margin-left: -2px;
+}
+.a {
+    color: rgb(106, 5, 173);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.m{
+    color: rgb(160, 57, 71);
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: -9px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.s {
+    color: rgb(187, 108, 108);
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: -11px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 
+{
+    font-weight: normal;
+    font-size: 35px;
+    margin-bottom: 2px;
+    color:rgb(184, 19, 46);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h1, h3{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:rgb(161, 56, 56);
+
+}
+
+h1 {
+    font-size: 40px;
+     margin-bottom: 2px;
+}
+input, textarea {
+    font: 1.2em sans-serif;
+    background-color: oldlace;
+    color: rgb(170, 45, 6);
+    border-radius: 1em;
+    height: fit-content;
+    cursor: pointer;
+    border: 1px solid rgb(90, 49, 49);
+    
+
+}
+
+textarea {
+    box-sizing: border-box;
+    height: 5em;
+    width: 30%;
+   
+}
+
+select {
+    background-color: oldlaces;
+    border-radius: 1em;
+    width: 8em;
+    height: 2em;
+    border-color: rgb(90, 49, 49);
+    border-style: double;
+    
+}
+
+option {
+    font: Arial;
+    font-size: large;
+}
+
+.container{
+    color: rgb(133, 56, 56);
+
+}
+
+p{ 
+    color: rgb(133, 56, 56);
+}
+
+label{
+    font-weight: bold;
+}.hyperlinks{
+    
+}
+
